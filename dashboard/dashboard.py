@@ -6,4 +6,4 @@ import streamlit as st
 
 #Load dataset
 
-df = pd.read_csv("https://raw.githubusercontent.com/fikrionii/Dicoding-Bike-Sharing/main/dataset/cleaned_bikeshare_hour.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/afrizalrizqi/Bike-Sharing/main/data/day.csv")
